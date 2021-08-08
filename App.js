@@ -6,6 +6,8 @@
  * @flow strict-local
  */
 
+// Root file of project
+
 import React,{useContext,useState} from 'react';
 
 
